@@ -1,5 +1,7 @@
 # Coderstats
 
+![demo](./public/screenshot-abc-coderstats.png)
+
 Data visualizations of your top languages, starred repositories and top repos.
 
 ![demo](https://media.giphy.com/media/XFjMsqgW5K5nW03ivP/giphy.gif)
