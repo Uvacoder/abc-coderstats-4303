@@ -43,7 +43,7 @@
         <i class="fab fa-github-alt" />
       </span>
       <h1 class="title is-2 has-text-white has-margin-top-20">
-        Enter Github Username
+        Enter Github Username for Users Stats
       </h1>
       <form on:submit|preventDefault={handleSubmit}>
         <input
