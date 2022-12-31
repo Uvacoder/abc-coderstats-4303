@@ -26,6 +26,6 @@
     "query-string": "^6.10.1",
     "sirv-cli": "^0.4.4",
     "svelte-loading-skeleton": "^1.0.1",
-    "svelte-routing": "^1.4.0"
+    "svelte-routing": "^1.6.0"
   }
 }
