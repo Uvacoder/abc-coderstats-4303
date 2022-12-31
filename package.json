@@ -21,7 +21,7 @@
     "bulma": "^0.8.0",
     "bulma-helpers": "^0.3.10",
     "chart.js": "^2.9.4",
-    "date-fns": "^2.9.0",
+    "date-fns": "^2.29.3",
     "github-api": "^3.3.0",
     "query-string": "^6.10.1",
     "sirv-cli": "^0.4.4",
